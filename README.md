@@ -1,4 +1,4 @@
-<img width="1838" height="1034" alt="image" src="https://github.com/user-attachments/assets/e1f94585-eb41-4e2a-afd5-f61a5b85bd85" /><h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
+<h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
 <h3>Name: Vignesh S             </h3>
 <h3>Register Number: 212224110061     </h3>
 <H3>Aim:</H3>
